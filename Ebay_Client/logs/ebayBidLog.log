@@ -1,0 +1,3 @@
+{"@message":"Bid product button clicked for item id = 2 by user with id = undefined","@timestamp":"2016-11-6 17:13:44","@fields":{"level":"info"}}
+{"@message":"Bid product button clicked for item id = 2 by user with id = undefined","@timestamp":"2016-11-6 17:15:24","@fields":{"level":"info"}}
+{"@message":"Bid product button clicked for item id = 3 by user with id = undefined","@timestamp":"2016-11-6 17:38:31","@fields":{"level":"info"}}
